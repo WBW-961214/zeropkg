@@ -1,5 +1,5 @@
 package utils
 
 func GetName() string {
-	return "王百万"
+	return "王百万1"
 }
